@@ -1,5 +1,5 @@
-# Learning_Path_Generator
- # MCP Learning Path Demo
+
+ # Learning Path Generator
 
 ## Project Overview
 
